@@ -1,0 +1,67 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 300px;
+}
+
+.table {
+    margin-top: 50px;
+}
+
+table th, table td {
+    border: 1px solid black;
+}
+
+.second-table{
+    margin-top: 50px;
+}
+
+.second-table th, .second-table td {
+    border: 1px solid black;
+}
+
+.empty-th {
+    width: 50px;
+}
+
+.third-table-first-td {
+    width: 150px;
+    height: 20px;
+}
+
+.third-table {
+    width: 250px;
+    margin-top: 50px;
+    height: 150px;
+}
+
+.third-table-second-td {
+    width: 20px;
+    height: 20px;
+}
+
+.third-table-third-td {
+    width: 40px;
+}
+
+.third-table-second-tr-first-td, .third-table-second-tr-third-td, 
+.third-table-second-tr-forth-td, .third-table-third-tr-first-td,
+.third-table-fourth-tr-first-td, .third-table-third-tr-second-td,
+.third-table-fifth-tr-first-td {
+    height: 20px;
+}
+
+.third-table-second-tr-second-td {
+    width: 25px;
+}
+
+.fourth-table {
+    width: 600px;
+    height: 250px;
+}
+
+.fourth-table-fourth-tr-second-th,
+.fourth-table-sixth-tr-second-th {
+    height: 100px;
+    background-image: url(images/computer.png);
+}
